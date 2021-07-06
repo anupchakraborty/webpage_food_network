@@ -199,6 +199,15 @@ p{
     padding: 15px;
     border-radius: 25px;
 }
+.item-title h3{
+    font-size: 20px;
+    text-align: center;
+}
+.item-body p{
+    padding: 10px;
+    text-align: center;
+    padding-left: 20px;
+}
 footer{
     height: 150px;
     background-color: black;
