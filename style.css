@@ -141,7 +141,7 @@ p{
 }
 .info-item{
     display:inline-block;
-    padding: 0 100px 0 100px;
+    padding: 0 120px 0 120px;
 }
 .info-item h1{
     margin: 45px 0 0 0;
@@ -156,10 +156,20 @@ p{
     color: dimgray;
 }
 footer{
-    height: 80px;
+    height: 150px;
     background-color: black;
+    padding: 0px;
+}
+footer h1{
+    font-size: 20px;
+    padding-top: 30px;
+    text-align: center;
+    color: dimgray;
+}
+footer span{
+    color: #048CF7;
 }
 footer p{
-    padding: 40px;;
     text-align: center;
+    color: dimgray;
 }
