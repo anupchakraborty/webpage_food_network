@@ -95,6 +95,7 @@ p{
     margin-right: 5%;
     padding-right: 2%;
     height: 500px;
+    margin-bottom: 100px;
 }
 .recipies h3{
     text-align: center;
@@ -126,4 +127,39 @@ p{
     padding: 10px;
     text-align: justify;
 }
-
+.food-network-info{
+    width:82%;
+    margin-left: 7%;
+    padding-left: 2%;
+    margin-right: 5%;
+    padding-right: 2%;
+    height: 150px;
+    background-color: rgb(235, 245, 250);
+    display:inline-block;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+.info-item{
+    display:inline-block;
+    padding: 0 100px 0 100px;
+}
+.info-item h1{
+    margin: 45px 0 0 0;
+    padding: 0;
+    font-size: 30px;
+    text-align: center;
+}
+.info-item span{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    color: dimgray;
+}
+footer{
+    height: 80px;
+    background-color: black;
+}
+footer p{
+    padding: 40px;;
+    text-align: center;
+}
